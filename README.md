@@ -1,2 +1,2 @@
-﻿# Merge_Arrays
-Andrew Bashchak IPZs-24-2
+﻿# Merge Arrays
+Andrew Bashchak, student of KDU, group: SWs-24-2
